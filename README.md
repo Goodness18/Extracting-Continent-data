@@ -1,1 +1,1 @@
-# sql_week2_excercise
+# sql_excercise
